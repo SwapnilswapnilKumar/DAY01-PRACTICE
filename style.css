@@ -10,6 +10,8 @@
   }
   
   body {
+    background-image: url(https://wallpapers.com/images/featured/iron-man-ouqxo5w2b59h0042.jpg);
+    background-size: 100%;
     --hue: var(--hue-neutral);
     padding: 0;
     margin: 0;
@@ -56,6 +58,8 @@
   }
   
   .btn:hover {
+    border-width: 3px;
+    
     border-color: black;
   }
   
